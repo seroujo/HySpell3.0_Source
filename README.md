@@ -128,7 +128,7 @@ other auxiliary support files.</ul>
 <p>Finally, in order to be able to debug HySpell source code, a version of Microsoft Office must be installed on the development machine. In particular, for HySpell Word Add-in, Word 2010 or above must be installed and activated, while for HySpellOL Outlook Add-in, Outlook 2010 (or above). Note that the current HySpell version is tested against Windows 7, Windows 8 and Windows 10, with Microsoft Office versions 2007, 2010, 2013, 2016, Office 365, and all respective editions.
 </p>
 <h3><a name="user-content-LinkToBinaries">Links to HySpell Spellchecker Installers</a></h3>
-<p>The following list contains links to the latest version of HySpell Spellchecker installers for various applications (in respective orthographies). These downloaded are provided free of charge by <a href="http://www.hyspell.com">www.hyspell.com</a>:</p>
+<p>The following list contains links to the latest version of HySpell Spellchecker installers for various applications (in respective orthographies). These downloads are provided free of charge by <a href="http://www.hyspell.com">www.hyspell.com</a>:</p>
 <ul><b>For Firefox (any OS) - Classical Orthography | Դասական Ուղղագրութիւն, Size: 909KB</b><br>
 <a href="http://www.hyspell.com/Free/20170601/hyspellarmenianspellingmozillasuite_2.4.2.xpi">hyspellarmenianspellingmozillasuite_2.4.2.xpi</a><br>
 <b>For Firefox (any OS) - Reformed Orthography | Նոր Ուղղագրութիւն, Size: 917KB</b><br>
