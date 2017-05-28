@@ -142,7 +142,7 @@ other auxiliary support files.</ul>
 <h3><a name="user-content-Liguistics">Linguistic Guidelines for Further Development</a></h3>
 <p><i>(todo)</i></p>
 <h3><a name="user-content-Funding">Community Support and Project Sponsorship</a></h3>
-<p>Although for almost 9 years, HySpell was developed, maintained and funded on the limited resources of the author, on June 2017, sponsorship by the Calouste Gulbenkian Foundation made this free open source project a reality.</p>
+<p>Although for almost 9 years, HySpell was developed, maintained and funded on the limited resources of the author, on June 2017, sponsorship by the <a href="http://www.gulbenkian.pt/">Calouste Gulbenkian Foundation</a> made this free open source project a reality.</p>
 <br/>
 <p align="center"><img src="CalousteGulbenkianFoundation_logo_2014_150dpi.png" width="450"><br/>
 with the sponsorship of the Calouste Gulbenkian Foundation
